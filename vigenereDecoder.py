@@ -97,7 +97,7 @@ def frequencyAnalysis(cipherText):	#Implemented for alphabet (A-Z) only
 
 	#now get frequencies for the alphabet (in the english language) and hard code them in
 	englishFrequencies = []
-	englishFrequencies.append(8.167 * (1/100))	#A
+	englishFrequencies.append(8.167 * (1/100))  #A
 	englishFrequencies.append(1.492 * (1/100))  #B
 	englishFrequencies.append(2.782 * (1/100))  #C
 	englishFrequencies.append(4.253 * (1/100))  #D
